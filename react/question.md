@@ -1,7 +1,3 @@
-# help.com-challenge
-Challenge for Help.com
-
-
 ## React Coding Challenge
 
 This code challenge tests your skills in react js, testing and modular design. The purpose of the application is to correctly render a stream of messages coming from an api. Different messages will be coded different colors and require slightly different rendering. The rules are described in detail below.
